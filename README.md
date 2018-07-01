@@ -1,0 +1,17 @@
+# Cat Clicker Project
+[v1.0 by Jurijs Avtaikins](https://javta.github.io/Jurijs_Avtaikins-portfolio/)
+
+## Project Overview
+
+**Visuals**
+* The application displays a picture of a cat and a number of clicks as well as a few interesting facts about cats.
+* The specifics of the layout did not matter, so I just converted my Animal Trading Cards project into this one.
+
+**Interaction**
+* The number of clicks increment when the cat picture is clicked.
+
+**Instructions**
+
+To view this Cat Clicker Project please follow the [link](https://javta.github.io/Jurijs_Avtaikins-portfolio/).
+
+There is no project rubric to review this project.
