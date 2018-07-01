@@ -1,5 +1,5 @@
 # Cat Clicker Project
-[v1.0 by Jurijs Avtaikins](https://javta.github.io/Jurijs_Avtaikins-portfolio/)
+[v1.0 by Jurijs Avtaikins](https://javta.github.io/frontend-nanodegree-cat-clicker)
 
 ## Project Overview
 
@@ -12,6 +12,6 @@
 
 **Instructions**
 
-To view this Cat Clicker Project please follow the [link](https://javta.github.io/Jurijs_Avtaikins-portfolio/).
+To view this Cat Clicker Project please follow the [link](https://javta.github.io/frontend-nanodegree-cat-clicker).
 
 There is no project rubric to review this project.
