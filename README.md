@@ -1,5 +1,7 @@
 # Cat Clicker Project
-[v1.0 by Jurijs Avtaikins](https://javta.github.io/frontend-nanodegree-cat-clicker)
+[v1.0 by Jurijs Avtaikins](https://javta.github.io/Udacity-cat-clicker/)
+
+*(follow the above link to view the project)*
 
 ## Project Overview
 
